@@ -2,8 +2,8 @@
 
 I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
 
-- 🔭 I’m currently working on Lingualibre and Lingualibre SignIt
-- 🌱 I’m currently learning Sign Languages
+- 🔭 I’m currently working on Lingualibre for Wikimedia France.
+- 🌱 I’m currently learning Django/VueJS, web servers, wmcloud, and vibe coding
 - 👯 I’m looking to collaborate on web tech
 - 🤔 I’m looking for help with dataviz, D3, vueJS
 - 💬 Ask me about web coding languages elearning.
